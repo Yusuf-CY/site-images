@@ -1,3 +1,3 @@
 # Images
-![](images/Desktop/2.png)
+![](desktop/2.png)
 
