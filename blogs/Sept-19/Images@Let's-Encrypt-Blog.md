@@ -1,2 +1,3 @@
 # Images
-<img src="Desktop/2.png" > 
+![](Desktop/2.png)
+
