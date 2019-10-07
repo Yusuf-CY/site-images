@@ -8,4 +8,5 @@ https://raw.githubusercontent.com/Yusuf-CY/site-images/master/blogs/Sept-19/7.pn
 https://raw.githubusercontent.com/Yusuf-CY/site-images/master/blogs/Sept-19/8.png
 https://raw.githubusercontent.com/Yusuf-CY/site-images/master/blogs/Sept-19/9.png
 https://raw.githubusercontent.com/Yusuf-CY/site-images/master/blogs/Sept-19/10.png
+https://raw.githubusercontent.com/Yusuf-CY/site-images/master/blogs/Sept-19/oie_75516e3NnqJ68.png                                           
 
